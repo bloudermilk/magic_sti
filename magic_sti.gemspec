@@ -4,8 +4,8 @@ require File.expand_path('../lib/magic_sti/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Brendan Loudermilk"]
   gem.email         = ["brendan@gophilosophie.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Write a gem description}
+  gem.summary       = %q{Write a gem summary}
   gem.homepage      = "https://github.com/bloudermilk/magic_sti"
 
   gem.files         = `git ls-files`.split($\)
