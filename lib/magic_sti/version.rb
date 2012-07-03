@@ -1,3 +1,3 @@
-module MagicSti
-  VERSION = "0.0.1"
+module MagicSTI
+  VERSION = "0.1.0"
 end
